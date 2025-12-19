@@ -1,0 +1,65 @@
+We are seeking a Senior Backend Engineer to join our growing engineering team. 
+
+About the Role:
+As a Senior Backend Engineer, you will be responsible for designing, developing, and maintaining scalable backend systems that power our platform serving millions of users.
+
+Required Skills & Qualifications:
+• 5+ years of professional software engineering experience
+• Strong proficiency in Python and backend frameworks (Django, FastAPI, or Flask)
+• Expert knowledge of relational databases (PostgreSQL, MySQL)
+• Experience with RESTful API design and microservices architecture
+• Proficiency with Docker and container orchestration
+• Strong understanding of AWS cloud services (EC2, S3, RDS, Lambda)
+• Experience with message queues (RabbitMQ, Kafka, or SQS)
+• Solid understanding of system design and distributed systems
+• Bachelor's degree in Computer Science or equivalent experience
+
+Preferred Skills:
+• Experience with Kubernetes for container orchestration
+• Knowledge of Redis for caching and session management
+• Familiarity with CI/CD pipelines (Jenkins, GitHub Actions)
+• Experience with monitoring tools (Prometheus, Grafana, DataDog)
+• GraphQL API development experience
+• Python async programming expertise
+• Previous experience in fintech or high-scale systems
+
+Responsibilities:
+• Design and implement highly scalable backend services and APIs
+• Architect microservices-based solutions for complex business problems
+• Optimize database queries and system performance
+• Lead technical design discussions and code reviews
+• Mentor junior and mid-level engineers
+• Collaborate with frontend engineers, product managers, and designers
+• Ensure code quality, testing, and documentation standards
+• Participate in on-call rotation for production support
+• Drive technical decisions and best practices across the team
+
+What We Offer:
+• Competitive salary and equity package
+• Comprehensive health, dental, and vision insurance
+• Flexible work arrangements (hybrid or remote)
+• Professional development budget
+• Latest MacBook Pro and equipment
+• Unlimited PTO policy
+• 401(k) matching
+
+Our Tech Stack:
+Backend: Python, FastAPI, Django
+Databases: PostgreSQL, Redis, DynamoDB
+Infrastructure: AWS, Docker, Kubernetes
+Message Queues: Kafka, SQS
+Monitoring: DataDog, Sentry
+CI/CD: GitHub Actions, ArgoCD
+
+Company Culture:
+We believe in moving fast, learning continuously, and building products that matter. We encourage innovation, embrace failure as learning, and maintain a strong focus on work-life balance.
+
+Equal Opportunity:
+We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Location: San Francisco, CA (Hybrid - 3 days in office)
+Employment Type: Full-time
+Salary Range: $150,000 - $220,000 (DOE)
+
+To Apply:
+Please submit your resume and a brief cover letter explaining why you're interested in this role and what makes you a great fit for our team.

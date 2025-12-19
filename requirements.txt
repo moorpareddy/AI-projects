@@ -1,0 +1,30 @@
+# Backend Dependencies
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+
+# Frontend
+streamlit==1.30.0
+
+# PDF Parsing
+pdfplumber==0.10.3
+PyPDF2==3.0.1
+
+# AI/ML
+openai==1.10.0
+google-generativeai==0.3.2
+sentence-transformers==2.3.1
+tiktoken==0.5.2
+
+# Embeddings & Vector Operations
+numpy==1.26.3
+scikit-learn==1.4.0
+
+# Environment & Config
+python-dotenv==1.0.0
+
+# Utilities
+python-jose[cryptography]==3.3.0
+requests==2.31.0
